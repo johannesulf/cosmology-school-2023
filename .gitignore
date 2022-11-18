@@ -1,0 +1,7 @@
+.sass-cache
+_site
+Gemfile.lock
+download/cv.*
+download/bibliography.bib
+!download/cv.tex
+!download/cv.pdf
