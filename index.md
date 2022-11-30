@@ -8,6 +8,8 @@ image:
     caption: "Image Credit: NASA, ESA, CSA, and STScI"
 ---
 
+Please join us for the 2nd Michigan Cosmology Summer School. The School will cover areas of cosmology, focusing specifically on the interface of data and theory. The format will be hybrid, with most participants expected to attend in person but open to online participation as well. Outdoor activities will be organized; more information and registration details are coming soon.
+
 |Lecturer (some are TBC)|Institution                                |Topic
 |-----------------------|-------------------------------------------|------------------------------------
 |Gary Bernstein         |University of Pennsylvania                 |Gravitational Lensing
