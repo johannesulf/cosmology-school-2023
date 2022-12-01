@@ -21,3 +21,5 @@ Please join us for the 2nd Michigan Cosmology Summer School. The School will cov
 |Joel Meyers            |Southern Methodist University              |CMB vs. Fundamental Physics
 |Levon Pogosian         |Simon Fraser University                    |Dark Energy and Modified Gravity
 |TBA                    |TBA                                        |Machine Learning
+
+Local Organizing Committee: Dragan Huterer (chair)
