@@ -22,4 +22,5 @@ Please join us for the 2nd Michigan Cosmology Summer School. The School will cov
 |Levon Pogosian         |Simon Fraser University                    |Dark Energy and Modified Gravity
 |TBA                    |TBA                                        |Machine Learning
 
-Local Organizing Committee: Dragan Huterer (chair)
+
+Local Organizing Committee: Dragan Huterer (chair), Felipe Andrade-Oliveira, Uendert Andrade, Camille Avestruz, Gus Evrard, Johannes Lange, Minh Nguyen, Kuan Wang
