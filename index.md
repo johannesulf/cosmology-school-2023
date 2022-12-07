@@ -20,7 +20,7 @@ Please join us for the 2nd Michigan Cosmology Summer School. The School will cov
 |Julien Lesgourgues     |RWTH Aachen                                |Linear Perturbation Theory and Class
 |Joel Meyers            |Southern Methodist University              |CMB vs. Fundamental Physics
 |Levon Pogosian         |Simon Fraser University                    |Dark Energy and Modified Gravity
-|TBA                    |TBA                                        |Machine Learning
+|Emille Ishida          |CNRS, Clermont Ferrand                     |Machine Learning
 
 
 Local Organizing Committee: Dragan Huterer (chair), Felipe Andrade-Oliveira, Uendert Andrade, Camille Avestruz, Gus Evrard, Johannes Lange, Minh Nguyen, Kuan Wang
