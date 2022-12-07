@@ -17,10 +17,10 @@ Please join us for the 2nd Michigan Cosmology Summer School. The School will cov
 |Elisa Ferreira         |Kavli IPMU                                 |Dark Matter Models
 |Vera Gluscevic         |University of Southern California          |Dark Matter Phenomenology
 |Gil Holder             |University of Illinois Urbana-Champaign    |CMB Analysis (or Galaxy Clusters)
+|Emille Ishida          |CNRS, Clermont Ferrand                     |Machine Learning
 |Julien Lesgourgues     |RWTH Aachen                                |Linear Perturbation Theory and Class
 |Joel Meyers            |Southern Methodist University              |CMB vs. Fundamental Physics
 |Levon Pogosian         |Simon Fraser University                    |Dark Energy and Modified Gravity
-|Emille Ishida          |CNRS, Clermont Ferrand                     |Machine Learning
 
 
 Local Organizing Committee: Dragan Huterer (chair), Felipe Andrade-Oliveira, Uendert Andrade, Camille Avestruz, Gus Evrard, Johannes Lange, Minh Nguyen, Kuan Wang
