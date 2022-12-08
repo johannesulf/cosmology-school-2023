@@ -7,4 +7,4 @@ image:
     caption: "Image Credit: Mansfield & Diemer"
 ---
 
-Registration information coming soon
+Registration information coming late January 2023
