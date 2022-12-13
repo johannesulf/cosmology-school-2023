@@ -15,6 +15,7 @@ Please join us for the 2nd Michigan Cosmology Summer School. The School will cov
 |Gary Bernstein         |University of Pennsylvania                 |Gravitational Lensing
 |Frank van den Bosch    |Yale University                            |Galaxy-Halo Connection
 |Elisa Ferreira         |Kavli IPMU                                 |Dark Matter Models
+|Lehman Garrison        |Flatiron Institute                         |Nbody Simulations
 |Vera Gluscevic         |University of Southern California          |Dark Matter Phenomenology
 |Gil Holder             |University of Illinois Urbana-Champaign    |CMB Analysis (or Galaxy Clusters)
 |Emille Ishida          |CNRS, Clermont Ferrand                     |Machine Learning
