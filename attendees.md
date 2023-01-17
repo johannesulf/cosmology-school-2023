@@ -7,4 +7,4 @@ image:
     caption: "Photo Credit: [Pixabay](https://pixabay.com/photos/startup-start-up-people-593341/)"
 ---
 
-Information forthcoming in January 2023
+Information forthcoming 
