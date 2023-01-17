@@ -7,7 +7,7 @@ image:
     caption: "Photo Credit: [goodfreephotos.com](https://www.goodfreephotos.com/united-states/michigan/ann-arbor/university-of-michigan-law-school-legal-reasearch-building-in-ann-arbor.jpg.php)"
 ---
 
-**VENUE:** The exact location of the meeting is still TBD, but it will be on University of Michigan's Central Campus in Ann Arbor, MI. The auditorium where we meet will be either in the West Hall (where the Physics department resides), or else in the brand new <a href="https://cccb.provost.umich.edu/"Central Campus Classroom Building</a>, or maybe in both.
+**VENUE:** The exact location of the meeting is still TBD, but it will be on University of Michigan's Central Campus in Ann Arbor, MI. The auditorium where we meet will be either in the West Hall (where the Physics department resides), or else in the brand new [Central Campus Classroom Building](https://cccb.provost.umich.edu/), or maybe in both.
 
 **LODGING:** We will book a block of rooms in a dormitory on campus. The price for double-occupancy rooms will be about $40 per person per night. Many of you will likely want to use services Airbnb or Hotels.com which offer numerous options on campus. Fancy hotels that are very near Central Campus such as Bell Tower or the Graduate tend to be pricey (ballpark $200/night). 
 
