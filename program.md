@@ -7,4 +7,4 @@ image:
     caption: "Image Credit: Mansfield & Diemer"
 ---
 
-Information forthcoming in January 2023
+Information forthcoming
