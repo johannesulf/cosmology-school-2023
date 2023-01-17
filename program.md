@@ -7,4 +7,6 @@ image:
     caption: "Image Credit: Mansfield & Diemer"
 ---
 
-Information forthcoming
+Detailed program information is forthcoming.
+
+We will be providing morning and afternoon coffee/snack breaks. Lunch and dinner will not be catered, but there are many interesting restaurants on Central Campus. We will organize a School dinner midway through the week. Finally, we will have organize an outdoor activity, possibly canoeing on Gallup Pond (pending decent weather).
