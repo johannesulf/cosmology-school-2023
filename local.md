@@ -7,7 +7,6 @@ image:
     caption: "Photo Credit: [goodfreephotos.com](https://www.goodfreephotos.com/united-states/michigan/ann-arbor/university-of-michigan-law-school-legal-reasearch-building-in-ann-arbor.jpg.php)"
 ---
 
-#VENUE
 **VENUE:** The School will take place on University of Michigan's Central Campus in Ann Arbor, MI. The exact location of the daily sessions is still TBD; the auditorium where we meet will be either in the [West Hall](https://maps.studentlife.umich.edu/building/west-hall) (where the Physics Department resides), or else in the brand new [Central Campus Classroom Building](https://cccb.provost.umich.edu/), or maybe in both. We will enable the meeting for hybrid attendance, and there will be a dedicated Zoom link for remote participants to dial into talks.
 
 **LODGING:** We will book a block of rooms in a dormitory on campus. The price for double-occupancy rooms will be about $40 per person per night. Alternatively, many of you will likely want to use services Airbnb or Hotels.com which offer numerous options on campus. Fancy hotels that are very near Central Campus such as Bell Tower or the Graduate tend to be pricey (ballpark $200/night) but, if you can afford them, are a great option. 
