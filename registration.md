@@ -7,7 +7,7 @@ image:
     caption: "Image Credit: Mansfield & Diemer"
 ---
 
-##Registration: 
+## Registration: 
 Please fill out and submit [THIS GOOGLE FORM](https://forms.gle/NJApZTd3H2HBssAB9).
 
 #### In-person-attendance applicants: 
