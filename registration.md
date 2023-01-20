@@ -7,4 +7,8 @@ image:
     caption: "Image Credit: Mansfield & Diemer"
 ---
 
-Registration information coming late January 2023
+Registration: please fill out and submit [THIS GOOGLE FORM](https://forms.gle/NJApZTd3H2HBssAB9).
+
+In-person-attendance applicants: For first consideration, please apply by March 15, 2023. After that, we will be considering applications on a rolling basis.
+
+Virtual-attendance applicants: Apply by April 15, 2023. 
