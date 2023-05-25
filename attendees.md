@@ -44,7 +44,7 @@ image:
 |You-Rong Wang                   |University of Auckland, New Zealand
 |Zachary Gelles                  |Princeton
 |Antonios Kyriazis               |University of Florida
-|Michael Rashkovetskyi           |Center for Astrophysics | Harvard & Smithsonian
+|Michael Rashkovetskyi           |Center for Astrophysics, Harvard & Smithsonian
 |Federico Berlfein               |Carnegie Mellon University
 |Maya Silverman                  |University of California, Irvine
 |Colton Feathers                 |University of Toledo
