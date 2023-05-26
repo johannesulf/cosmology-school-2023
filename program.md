@@ -12,4 +12,4 @@ Detailed program information is enclosed below.
 We will be providing morning and afternoon coffee/snacks during breaks. Lunch and dinner will *not* be catered, but there are many good and varied restaurants on Central Campus; we will provide a doc with local recommendations. Finally, we are organizing an outdoor trip - canoeing on Argo Pond. The Pond is walking distance to CCCB (30 mins max); lunch will be catered and made available there, prior to canoeing.
 
 image:
-    path: /assets/images/preliminary_program.png
+    path: /assets/images/preliminary_program.pdf
