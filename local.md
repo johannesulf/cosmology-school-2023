@@ -7,7 +7,7 @@ image:
     caption: "Photo Credit: [goodfreephotos.com](https://www.goodfreephotos.com/united-states/michigan/ann-arbor/university-of-michigan-law-school-legal-reasearch-building-in-ann-arbor.jpg.php)"
 ---
 
-**VENUE:** The School will take place on University of Michigan's Central Campus in Ann Arbor, MI. The lectures will take place in the brand new [Central Campus Classroom Building](https://cccb.provost.umich.edu/). We will enable the meeting for hybrid attendance, and there will be a dedicated Zoom link for remote participants to dial into talks. The map of central campus, with CCCB clearly labeled, is [HERE](campus_map.png).
+**VENUE:** The School will take place on University of Michigan's Central Campus in Ann Arbor, MI. The lectures will take place in the brand new [Central Campus Classroom Building](https://cccb.provost.umich.edu/). We will enable the meeting for hybrid attendance, and there will be a dedicated Zoom link for remote participants to dial into talks. The map of central campus, with CCCB clearly labeled, is [HERE](/assets/images/campus_map.png).
 
 **LODGING:** Most of you will likely want to use services Airbnb or Hotels.com which offer numerous options on campus. One good option that we noticed is are [Exhibit A2 apartments](https://exhibita2.com/) which look nice, can be shared by ~3 students at a reasonable cost, and are very nearby the School venue. The fancy hotels that are very near Central Campus such as [Bell Tower](https://belltowerhotel.com/), [Michigan League](https://inn.studentlife.umich.edu/rooms/), or [Ross Executive Learning Conference Center](https://www.acc-elandconferencecenter.com/rooms) tend to be pricey (ballpark $200/night) but, if you can afford them, are a great option. 
 
