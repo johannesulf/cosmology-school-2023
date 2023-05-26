@@ -23,11 +23,11 @@ image:
 |Yan Yan Chan                    |Johns Hopkins University
 |Chandrika Chandrashekar         |Harvard University
 |Shu-Fan Chen                    |Harvard Physics
-|Kai-Feng Chen                   |MIT
+|Kai-Feng Chen                   |Massachusetts Institute of Technology
 |Jacob Christy                   |University of Hawaii
-|Anna Coerver                    |UC Berkeley
+|Anna Coerver                    |University of California, Berkeley
 |Bryce Cousins                   |University of Illinois Urbana-Champaign
-|Ekaterine Dadiani               |CMU
+|Ekaterine Dadiani               |Carnegie Mellon University
 |Pritam Das                      |IIT Guwahati
 |Shashank Dattathri              |Yale University
 |Matthew DeMartino               |University of California, Santa Cruz
@@ -42,8 +42,8 @@ image:
 |Tristan Fraser                  |Waterloo Centre for Astrophysics
 |Sophia Gad-Nasr                 |University of California, Irvine
 |Raven Gassis                    |University of Cincinnati
-|Fei Ge                          |UC Davis
-|Zachary Gelles                  |Princeton
+|Fei Ge                          |University of California, Davis
+|Zachary Gelles                  |Princeton University
 |Naomi Gluck                     |Yale University
 |Kylar Greene                    |University of New Mexico
 |Tyler Hagen                     |University of Utah
@@ -55,7 +55,7 @@ image:
 |Yun-Hsin Hsu                    |Ludwig Maximilian University of Munich
 |Yu-Hsiu Huang                   |Steward Observatory, University of Arizona
 |Joe Huber                       |University of Missouri-Kansas City
-|Abdelaziz Hussein               |MIT
+|Abdelaziz Hussein               |Massachusetts Institute of Technology
 |Vitório Isabele                 |Argonne National Laboratory
 |Junehyoung Jeon                 |University of Texas at Austin
 |Deric Jones                     |Rensselaer Polytechnic Institute
@@ -66,9 +66,9 @@ image:
 |Olena Kompaniiets               |Main Astronomical Observatory of NAS of Ukraine
 |Darby Kramer                    |Arizona State University
 |Aditi Krishak                   |University of Southern California
-|James Kwon                      |UC Santa Barbara
+|James Kwon                      |University of California, Santa Barbara
 |Antonios Kyriazis               |University of Florida
-|Katherine Laliotis              |the Ohio State University
+|Katherine Laliotis              |Ohio State University
 |Gain Lee                        |Seoul National University, Korea
 |Katya Leidig                    |University of Maryland, UMD
 |Pengfei Li                      |University of Utah
@@ -84,7 +84,7 @@ image:
 |Yogesh Mehta                    |Arizona State University
 |Kaustav Mitra                   |Yale University
 |Sebastian Monzon                |Yale University
-|Jeongin Moon                    |MPA
+|Jeongin Moon                    |Max Planck Institute for Astrophysics
 |Irene Moskowitz                 |Rutgers University
 |Yukei Murakami                  |Johns Hopkins University
 |Titus Nyarko Nde                |Boise State University, Idaho
@@ -95,7 +95,7 @@ image:
 |Aaron Ouellette                 |University of Illinois Urbana-Champaign
 |Andy Park                       |Carnegie Mellon University
 |Teerthal Patel                  |Arizona State University
-|Annie Polish                    |Harvard
+|Annie Polish                    |Harvard University
 |Vasilii Pustovoit               |University of Toronto
 |Alejandro Pérez-Fernández       |Instituto de Física, UNAM
 |Zimo Qu                         |University of Illinois at Urbana-Champaign
