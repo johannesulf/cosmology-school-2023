@@ -35,7 +35,7 @@ image:
 |Daria Dobrycheva                |Main Astronomical Observatory of NAS of Ukraine
 |Jordan Ducatel                  |University of Waterloo
 |Isaque Dutra                    |Yale University
-|Haruki Ebina                    |UC Berkeley
+|Haruki Ebina                    |University of California, Berkeley
 |Anna Engelhardt                 |George Mason University
 |Colton Feathers                 |University of Toledo
 |Dylan Folsom                    |Princeton University
@@ -74,7 +74,7 @@ image:
 |Pengfei Li                      |University of Utah
 |Siyang Li                       |Johns Hopkins University
 |Siyang Ling                     |Rice University
-|Henry Liu                       |UC Berkeley
+|Henry Liu                       |University of California, Berkeley
 |Greg Lukens                     |Penn State University
 |Stuart Lyall                    |Swinburne University of Technology
 |Karime Maamari                  |University of Southern California
