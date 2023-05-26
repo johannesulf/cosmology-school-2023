@@ -9,124 +9,124 @@ image:
 
 **In-person attendees**
 
+|Aizhan Akhmetzhanova            |Harvard University
+|Omer Faruk Albayrak             |Arizona State University
+|Abigail Ambrose                 |University of Toledo
 |Bianca Azartash                 |University of Oklahoma
 |Thomas Bakx                     |Utrecht University
 |Thomas Bakx                     |Utrecht University
-|Isil Basaran Oz                 |University of Michigan
 |Federico Berlfein               |Carnegie Mellon University
 |Devika Bhatnagar                |Argelander Institue for Astronomy, University of Bonn
-|Maulik Bhatt                    |Scuola Normale Superiore di Pisa, Italy
 |David Camarena                  |University of New Mexico
+|Shuyang Cao                     |University of Pittsburgh
+|Christian Capanelli             |McGill University
 |Yan Yan Chan                    |Johns Hopkins University
 |Chandrika Chandrashekar         |Harvard University
-|Iryna Chemerynska               |Institut d'Astrophysique de Paris
 |Shu-Fan Chen                    |Harvard Physics
-|Bill Chen                       |University of Michigan
 |Kai-Feng Chen                   |MIT
+|Jacob Christy                   |University of Hawaii
 |Anna Coerver                    |UC Berkeley
 |Bryce Cousins                   |University of Illinois Urbana-Champaign
 |Ekaterine Dadiani               |CMU
-|Poulomi Dam                     |Indian Institute of Science Education and Research, Berhampur
 |Pritam Das                      |IIT Guwahati
 |Shashank Dattathri              |Yale University
 |Matthew DeMartino               |University of California, Santa Cruz
 |Nicola Deiosso                  |Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas
-|Simthembile Dlamini             |University of the Western Cape
 |Daria Dobrycheva                |Main Astronomical Observatory of NAS of Ukraine
 |Jordan Ducatel                  |University of Waterloo
 |Isaque Dutra                    |Yale University
 |Haruki Ebina                    |UC Berkeley
 |Anna Engelhardt                 |George Mason University
-|Jiawen Fan                      |University of Michigan
 |Colton Feathers                 |University of Toledo
 |Dylan Folsom                    |Princeton University
+|Tristan Fraser                  |Waterloo Centre for Astrophysics
 |Sophia Gad-Nasr                 |University of California, Irvine
-|Himanish Ganjoo                 |Perimeter Institute
-|Shengqing Gao                   |Huazhong University Of Technology
-|Shengqing Gao                   |Huazhong University of Technology
+|Raven Gassis                    |University of Cincinnati
 |Fei Ge                          |UC Davis
 |Zachary Gelles                  |Princeton
 |Naomi Gluck                     |Yale University
-|Tze Goh                         |University of Hawaii, Manoa
-|Vir Goyal                       |Haverford College
 |Kylar Greene                    |University of New Mexico
 |Tyler Hagen                     |University of Utah
 |Ray Hagimoto                    |Rice University
-|Ray Hagimoto                    |Rice University
-|Jibran Haider                   |University of Toronto, CITA (Canadian Institute for Theoretical Astrophysics)
-|Chi Han                         |University of Michigan, Ann Arbor
+|Sang Hyeon Han                  |Seoul National University
 |Ryan Hazlett                    |University of Toledo
-|Kiriakos Hilbert                |UIUC
 |Amber Hollinger                 |University of Waterloo
 |Hans Hopkins                    |University of Waterloo
 |Yun-Hsin Hsu                    |Ludwig Maximilian University of Munich
 |Yu-Hsiu Huang                   |Steward Observatory, University of Arizona
+|Joe Huber                       |University of Missouri-Kansas City
 |Abdelaziz Hussein               |MIT
 |Vitório Isabele                 |Argonne National Laboratory
-|Myriah Johnson                  |Arizona State University
+|Junehyoung Jeon                 |University of Texas at Austin
 |Deric Jones                     |Rensselaer Polytechnic Institute
 |Gladys Muthoni Kamau            |Boise State University
 |Soumyodipta Karmakar            |University of New Mexico
-|Arnaz Khan                      |IfA, University of Edinburgh
 |Dongkok Kim                     |Seoul National University
 |Kassidy Kollmann                |Princeton University
 |Olena Kompaniiets               |Main Astronomical Observatory of NAS of Ukraine
-|Hyunsu Kong                     |The University of Texas at Austin
 |Darby Kramer                    |Arizona State University
 |Aditi Krishak                   |University of Southern California
-|Aleksandra Kusiak               |Columbia
 |James Kwon                      |UC Santa Barbara
 |Antonios Kyriazis               |University of Florida
 |Katherine Laliotis              |the Ohio State University
-|Irene Leftaki                   |UCL
+|Gain Lee                        |Seoul National University, Korea
 |Katya Leidig                    |University of Maryland, UMD
 |Pengfei Li                      |University of Utah
 |Siyang Li                       |Johns Hopkins University
-|Shurui Lin                      |University of Science and Technology of China
 |Siyang Ling                     |Rice University
 |Henry Liu                       |UC Berkeley
 |Greg Lukens                     |Penn State University
 |Stuart Lyall                    |Swinburne University of Technology
 |Karime Maamari                  |University of Southern California
-|Lekhika Malhotra                |Indian Institute of Technology Bombay
-|Ilaria Marini                   |ESO
 |Hunter Martin                   |University of Waterloo
 |Mark Maus                       |University of California, Berkeley
 |Gooderham McCormick             |The Pennsylvania State University
 |Yogesh Mehta                    |Arizona State University
 |Kaustav Mitra                   |Yale University
+|Sebastian Monzon                |Yale University
 |Jeongin Moon                    |MPA
 |Irene Moskowitz                 |Rutgers University
 |Yukei Murakami                  |Johns Hopkins University
-|Parth Nayak                     |LMU Munich
 |Titus Nyarko Nde                |Boise State University, Idaho
 |Alan Nguyen                     |University of Waterloo
 |Roisin O'Connor                 |University of Sussex
-|Malak Olamaie                   |York St John University
 |Alexis Ortega                   |Brown University
 |Calvin Osinga                   |University of Maryland - College Park
 |Aaron Ouellette                 |University of Illinois Urbana-Champaign
 |Andy Park                       |Carnegie Mellon University
 |Teerthal Patel                  |Arizona State University
-|Kim Phan                        |Institute of Space Sciences, Autonomous University of Barcelona
 |Annie Polish                    |Harvard
-|Lorenzo Principe                |SUBATECH and University of Melbourne
-|Rujuta Purohit                  |Dartmouth College
+|Vasilii Pustovoit               |University of Toronto
 |Alejandro Pérez-Fernández       |Instituto de Física, UNAM
+|Zimo Qu                         |University of Illinois at Urbana-Champaign
 |Anmol Raina                     |Harvard University
+|Michael Rashkovetskyi           |Center for Astrophysics | Harvard & Smithsonian
 |Bastián Reinoso                 |Universität Heidelberg
-|Kirill Riabtsev                 |Moscow State University 2019-2023; expected Cambridge 2023-2024 (received a conditional offer) 
 |Cole Rischbieter                |Missouri University of Science and Technology
-|David Robinson                  |University of Michigan
-|Alexander Rodriguez             |University of Michigan
-|Amber Roepe-Gier                |George Mason University
-|Tomomi Sunayama                 |University of Arizona
+|Sandip Roy                      |Princeton University
+|Edgar Martin Salazar Canizales  |University of Arizona
+|Shishir Sankhayan               |University of Tartu
+|Murali Saravanan                |University of Washington
+|Tanner Sether                   |Michigan Technological University
+|Rui Shi                         |Johns Hopkins University
+|Mahlet Shiferaw                 |Stanford University
+|David Shlivko                   |Princeton University
+|Maya Silverman                  |University of California, Irvine
+|Guru Sai Haveesh Singirikonda   |Argelander Institute for Astronomy, Universität Bonn
+|Alex Sobotka                    |University of North Carolina at Chapel Hill
+|John Soltis                     |Johns Hopkins University
+|Maria Straight                  |University of Texas at Austin
+|Emily Strickland                |University of Utah
+|Eleanor Stuart                  |University of Southern California
+|Petar Suman                     |University of Cambridge, DAMTP
 |Rakshitha Thaman                |New York University
 |Yarone Tokayer                  |Yale University
+|Wynne Turner                    |The Ohio State University
 |Benjamin Vaughan                |Rochester Institute of Technology
 |Qingqing Wang                   |University of Science and Technology of China
 |You-Rong Wang                   |University of Auckland, New Zealand
+|Amanda Wasserman                |University of Illinois Urbana-Champaign
+|Sihan Yuan                      |Stanford University
 |Erik Zaborowski                 |Ohio State University
 |Gemma Zhang                     |Harvard University
-|Yuxin Zhao                      |Department of Physics, University of Florida
 |Yihao Zhou                      |Carnegie Mellon University
