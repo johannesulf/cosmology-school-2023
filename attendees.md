@@ -100,7 +100,7 @@ image:
 |Alejandro Pérez-Fernández       |Instituto de Física, UNAM
 |Zimo Qu                         |University of Illinois at Urbana-Champaign
 |Anmol Raina                     |Harvard University
-|Michael Rashkovetskyi           |Center for Astrophysics | Harvard & Smithsonian
+|Michael Rashkovetskyi           |Center for Astrophysics, Harvard & Smithsonian
 |Bastián Reinoso                 |Universität Heidelberg
 |Cole Rischbieter                |Missouri University of Science and Technology
 |Sandip Roy                      |Princeton University
