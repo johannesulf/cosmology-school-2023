@@ -13,4 +13,4 @@ image:
 
 **TRAVEL:** You can find lots of information on the [LCTP visitor info site](https://lsa.umich.edu/lctp/visitor-information.html). Probably the most important thing to know is that the closest airport is the Detroit Metro Airport (DTW), which is 30-40 mins away by taxi/Uber and has good flight connections worldwide. An Uber ride from the airport costs $50-60; there are also buses which are cheaper. A taxi should cost $70 or so, and if you want to travel in style, a [Metrocar](https://metropolitanairportcars.com/) (with a uniformed driver) should cost slightly more, in the $85 ballpark.
 
-**WHERE TO EAT/DRINK IN ANN ARBOR:** Our students and postdocs have created [this nice document](/assets/images/Guide_to_AnnArbor.png) for more information on where to eat, drink, have coffee, or what to do in Ann Arbor. 
+**WHERE TO EAT/DRINK IN ANN ARBOR:** Our students and postdocs have created [this google doc](https://docs.google.com/document/d/1m9LPu9BdRdXluJlyFg-gHIzmNICdsXhO/edit?usp=sharing&ouid=107916546578111437896&rtpof=true&sd=true) for more information on where to eat, drink, have coffee, or what to do in Ann Arbor. 
