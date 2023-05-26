@@ -8,7 +8,7 @@ image:
     caption: "Image Credit: NASA, ESA, CSA, and STScI"
 ---
 
-Please join us for the 2nd Michigan Cosmology Summer School. The School will cover areas of cosmology, focusing specifically on the interface of data and theory. The format will be hybrid, with most participants expected to attend in person but open to online participation as well. Outdoor activities will be organized. For more information and registration, click on the bars on the top right of this page.
+The 2nd Michigan Cosmology Summer School will cover areas of cosmology, focusing specifically on the interface of data and theory. The format will be hybrid, with ~120 participants expected to attend in person but open to online participation as well. Outdoor activities will be organized. For more information, click on the bars on the top right of this page.
 
 |Lecturer           |Institution                                |Topic
 |-----------------------|-------------------------------------------|------------------------------------
