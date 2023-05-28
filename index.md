@@ -12,11 +12,11 @@ The 2nd Michigan Cosmology Summer School will cover areas of cosmology, focusing
 
 |Lecturer           |Institution                                |Topic
 |-----------------------|-------------------------------------------|------------------------------------
-|Gary Bernstein         |University of Pennsylvania                 |Weak Gravitational Lensing
+|Gary Bernstein         |University of Pennsylvania                 |Measuring and Mapping Cosmic Shear
 |Frank van den Bosch    |Yale University                            |Galaxy-Halo Connection
 |Elisa Ferreira         |Kavli IPMU                                 |Dark Matter Models
-|Lehman Garrison        |Flatiron Institute                         |Nbody Simulations
-|Vera Gluscevic         |University of Southern California          |Dark Matter Phenomenology
+|Lehman Garrison        |Flatiron Institute                         |Let's Write an HOD Code!
+|Vera Gluscevic         |University of Southern California          |Cosmological Probes of Dark Matter
 |Gil Holder             |University of Illinois Urbana-Champaign    |CMB Analysis and connections to LSS
 |Emille Ishida          |CNRS, Clermont Ferrand                     |Machine Learning
 |Joel Meyers            |Southern Methodist University              |CMB vs. Fundamental Physics
