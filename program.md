@@ -11,4 +11,21 @@ Detailed program information is enclosed below. You can also subscribe to the [c
 
 We will be providing morning and afternoon coffee/snacks during breaks. Lunch and dinner will *not* be catered, but there are many good and varied restaurants on Central Campus; we are providing a [doc with local recommendations](https://docs.google.com/document/d/1m9LPu9BdRdXluJlyFg-gHIzmNICdsXhO/edit?usp=sharing&ouid=107916546578111437896&rtpof=true&sd=true). Finally, we are organizing an outdoor trip - canoeing on Argo Pond. The Pond is walking distance to CCCB (30 mins max); lunch will be catered and made available there, prior to canoeing.
 
-![Program](/assets/images/program_with_titles.png)
+&nbsp; |Monday | Tuesday | Wednesday | Thursday | Friday
+-------|:-----:|:-----:|:-----:|:-----:|:-----:
+8:30am- 9:10am | Coffee and Pastries <br> Welcome | Coffee and Pastries | Coffee and Pastries | Coffee and Pastries | Coffee and Pastries
+9:10am - 9:50am | van den Bosch (1) <br> [Halo Occupation Modeling]({{ site.url }}/assets/talks/lorem.pdf) | van den Bosch (2) <br> The Galaxy-Halo Connection | Bernstein (1) <br> Weak Gravitational Lensing:  Theory | Ferreira (1) <br> Dark Matter Models | Gluscevic (1) <br> Cosmological Probes  of Dark Matter
+9:50am - 10:00am | Short Break | Short Break | Short Break | Short Break | Short Break
+10:00am - 10:40am | van den Bosch (1) <br> Halo Occupation Modeling | van den Bosch (2) <br> The Galaxy-Halo Connection | Bernstein (1) <br> Weak Gravitational Lensing:  Theory | Ferreira (1) <br> Dark matter Models | Gluscevic (1) <br> Cosmological Probes of Dark Matter
+10:40am - 11:00am | Longer Break | Longer Break | Longer Break | Longer Break | Longer Break
+11:00am - 11:40pm | Holder (1) <br> CMB, Power Spectra and Correlations | Meyers (2) <br> Inflationary Insights with the CMB | Ishida (1) <br> Can ML Solve my Problem? | Bernstein (2) <br> Weak Gravitational Lensing: Measurements | Pogosian (2) Dark Energy and Modified Gravity
+11:40am - 11:50am | Short Break | Short Break | Short Break | Short Break | Short Break
+11:50am - 12:30pm | Holder (1) <br> CMB, Power Spectra and Correlations | Meyers (2) <br> Inflationary Insights with the CMB | Ishida (1) <br> Can ML Solve my Problem? | Bernstein (2) <br> Weak Gravitational Lensing: Measurements | Pogosian (2) <br> Dark Energy and Modified Gravity
+12:30pm - 2:00 pm | Self-Organized Lunch | Self-Organized Lunch | Kayaking Trip with Lunch Boxes Waiting for Pickup | Self-Organized Lunch | Self-Organized Lunch
+2:00pm - 2:40pm | Meyers (1) <br> Cosmic Neutrinos and other Relics with the CMB | Holder (2) <br> CMB Probes LSS: Lensing & SZ Effects | Kayaking Trip | Pogosian (1) <br> Dark Energy and Modified Gravity | Ferreira (2) <br> Dark Matter Models
+2:40am - 2:50am | Short Break | Short Break | Kayaking Trip | Short Break | Short Break
+2:50pm - 3:30pm | Meyers (1) <br> Cosmic Neutrinos and other Relics with the CMB | Holder (2) <br> CMB Probes LSS: Lensing & SZ Effects | Kayaking Trip | Pogosian (1) <br> Dark Energy and Modified Gravity | Ferreira (2) <br> Dark Matter Models
+3:30pm - 3:50pm | Coffee Break | Coffee Break | Kayaking Trip | Coffee Break | Coffee Break
+3:50pm - 4:30pm | Garrison (1) <br> Let's Write an HOD Code! | Garrison (2) <br> Let's Write an HOD Code! | Kayaking Trip | Ishida (2) <br> Human in the Loop:  Active Learning for Astronomy | Gluscevic (2) <br> Cosmological Probes  of Dark Matter
+4:30am - 4:40am | Short Break | Short Break | Kayaking Trip | Short Break | Short Break
+4:40pm - 5:20pm | Garrison (1) <br> Let's Write an HOD Code! | Garrison (2) <br> Let's Write an HOD Code! | Kayaking Trip | Ishida (2) Human in the Loop: Active Learning for Astronomy | Gluscevic (2) <br> Cosmological Probes of Dark Matter
