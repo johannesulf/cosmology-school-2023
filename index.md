@@ -10,6 +10,8 @@ image:
 
 The 2nd Michigan Cosmology Summer School will cover areas of cosmology, focusing specifically on the interface of data and theory. The format will be hybrid, with ~120 participants expected to attend in person but open to online participation as well. Outdoor activities will be organized. For more information, click on the bars on the top right of this page.
 
+The School will be livestreamed on Youtube; the link is [HERE](https://www.youtube.com/@cosmomichigan/streams).
+
 |Lecturer           |Institution                                |Topic
 |-----------------------|-------------------------------------------|------------------------------------
 |Gary Bernstein         |University of Pennsylvania                 |Measuring and Mapping Cosmic Shear
