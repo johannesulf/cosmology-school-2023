@@ -12,7 +12,7 @@ Detailed program information is enclosed below. You can also subscribe to the [c
 &nbsp; |Monday | Tuesday | Wednesday | Thursday | Friday
 -------|:-----:|:-----:|:-----:|:-----:|:-----:
 8:30am- 9:10am | Coffee and Pastries <br> Welcome | Coffee and Pastries | Coffee and Pastries | Coffee and Pastries | Coffee and Pastries
-9:10am - 9:50am | van den Bosch (1) <br> Halo Occupation Modeling ([Slides]({{ site.url }}/cosmology-school-2023/assets/talks/lorem.pdf), [Video](https://www.youtube.com/watch?v=KwfFp9b7tBM) | van den Bosch (2) <br> The Galaxy-Halo Connection | Bernstein (1) <br> Weak Gravitational Lensing:  Theory | Ferreira (1) <br> Dark Matter Models | Gluscevic (1) <br> Cosmological Probes  of Dark Matter
+9:10am - 9:50am | van den Bosch (1) <br> Halo Occupation Modeling ([Slides]({{ site.url }}/cosmology-school-2023/assets/talks/lorem.pdf), [Video](https://www.youtube.com/watch?v=KwfFp9b7tBM)) | van den Bosch (2) <br> The Galaxy-Halo Connection | Bernstein (1) <br> Weak Gravitational Lensing:  Theory | Ferreira (1) <br> Dark Matter Models | Gluscevic (1) <br> Cosmological Probes  of Dark Matter
 9:50am - 10:00am | Short Break | Short Break | Short Break | Short Break | Short Break
 10:00am - 10:40am | van den Bosch (1) <br> Halo Occupation Modeling | van den Bosch (2) <br> The Galaxy-Halo Connection | Bernstein (1) <br> Weak Gravitational Lensing:  Theory | Ferreira (1) <br> Dark matter Models | Gluscevic (1) <br> Cosmological Probes of Dark Matter
 10:40am - 11:00am | Longer Break | Longer Break | Longer Break | Longer Break | Longer Break
@@ -24,6 +24,6 @@ Detailed program information is enclosed below. You can also subscribe to the [c
 2:40am - 2:50am | Short Break | Short Break | Kayaking Trip | Short Break | Short Break
 2:50pm - 3:30pm | Meyers (1) <br> Cosmic Neutrinos and other Relics with the CMB | Holder (2) <br> CMB Probes LSS: Lensing & SZ Effects | Kayaking Trip | Pogosian (1) <br> Dark Energy and Modified Gravity | Ferreira (2) <br> Dark Matter Models
 3:30pm - 3:50pm | Coffee Break | Coffee Break | Kayaking Trip | Coffee Break | Coffee Break
-3:50pm - 4:30pm | Garrison (1) <br> Let's Write an HOD Code! | Garrison (2) <br> Let's Write an HOD Code! | Kayaking Trip | Ishida (2) <br> Human in the Loop:  Active Learning for Astronomy | Gluscevic (2) <br> Cosmological Probes  of Dark Matter
+3:50pm - 4:30pm | Garrison (1) <br> Let's Write an HOD Code! ([Code](https://colab.research.google.com/drive/1WuKCpfvWUbpb-nyx00NIASd2Rf7Dt0JK?usp=sharing)) | Garrison (2) <br> Let's Write an HOD Code! | Kayaking Trip | Ishida (2) <br> Human in the Loop:  Active Learning for Astronomy | Gluscevic (2) <br> Cosmological Probes  of Dark Matter
 4:30am - 4:40am | Short Break | Short Break | Kayaking Trip | Short Break | Short Break
 4:40pm - 5:20pm | Garrison (1) <br> Let's Write an HOD Code! | Garrison (2) <br> Let's Write an HOD Code! | Kayaking Trip | Ishida (2) Human in the Loop: Active Learning for Astronomy | Gluscevic (2) <br> Cosmological Probes of Dark Matter
