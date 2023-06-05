@@ -12,7 +12,7 @@ Detailed program information is enclosed below. You can also subscribe to the [c
 &nbsp; |Monday | Tuesday | Wednesday | Thursday | Friday
 -------|:-----:|:-----:|:-----:|:-----:|:-----:
 8:30am- 9:10am | Coffee and Pastries <br> Welcome | Coffee and Pastries | Coffee and Pastries | Coffee and Pastries | Coffee and Pastries
-9:10am - 9:50am | van den Bosch (1) <br> [Halo Occupation Modeling]({{ site.url }}/cosmology-school-2023/assets/talks/lorem.pdf) | van den Bosch (2) <br> The Galaxy-Halo Connection | Bernstein (1) <br> Weak Gravitational Lensing:  Theory | Ferreira (1) <br> Dark Matter Models | Gluscevic (1) <br> Cosmological Probes  of Dark Matter
+9:10am - 9:50am | van den Bosch (1) <br> Halo Occupation Modeling ([Slides]({{ site.url }}/cosmology-school-2023/assets/talks/lorem.pdf), [Video](https://www.youtube.com/watch?v=KwfFp9b7tBM) | van den Bosch (2) <br> The Galaxy-Halo Connection | Bernstein (1) <br> Weak Gravitational Lensing:  Theory | Ferreira (1) <br> Dark Matter Models | Gluscevic (1) <br> Cosmological Probes  of Dark Matter
 9:50am - 10:00am | Short Break | Short Break | Short Break | Short Break | Short Break
 10:00am - 10:40am | van den Bosch (1) <br> Halo Occupation Modeling | van den Bosch (2) <br> The Galaxy-Halo Connection | Bernstein (1) <br> Weak Gravitational Lensing:  Theory | Ferreira (1) <br> Dark matter Models | Gluscevic (1) <br> Cosmological Probes of Dark Matter
 10:40am - 11:00am | Longer Break | Longer Break | Longer Break | Longer Break | Longer Break
