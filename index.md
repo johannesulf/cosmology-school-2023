@@ -26,3 +26,5 @@ The School will be livestreamed on Youtube; the link is [HERE](https://www.youtu
 
 
 Local Organizing Committee: Dragan Huterer (chair), Felipe Andrade-Oliveira, Uendert Andrade, Camille Avestruz, Gus Evrard, Johannes Lange, Minh Nguyen, Kuan Wang
+
+![Group Photo]({{ site.url }}/assets/images/group_photo.jpg)
