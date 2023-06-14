@@ -27,4 +27,4 @@ The School will be livestreamed on Youtube; the link is [HERE](https://www.youtu
 
 Local Organizing Committee: Dragan Huterer (chair), Felipe Andrade-Oliveira, Uendert Andrade, Camille Avestruz, Gus Evrard, Johannes Lange, Minh Nguyen, Kuan Wang
 
-![Group Photo]({{ site.url }}/cosmology-school-2023/assets/images/group_photo.jpg)
+![Group Photo](assets/images/group_photo.jpg)
