@@ -130,3 +130,22 @@ image:
 |Erik Zaborowski                 |Ohio State University
 |Gemma Zhang                     |Harvard University
 |Yihao Zhou                      |Carnegie Mellon University
+
+**In-person attendees - Michigan students**
+|Gill Akum                      |University of Michigan
+|Otávio Alves                      |University of Michigan
+|Preet Baxi                      |University of Michigan
+|Yingtian (Bill) Chen                      |University of Michigan
+|Uendert Andrade                       |University of Michigan
+|Jiawen Fan                      |University of Michigan
+|Chi Han                      |University of Michigan
+|Sikandar Hanif                      |University of Michigan
+|Carter Matties                      |University of Michigan
+|Jiaming Pan                      |University of Michigan
+|Evan Petrosky                      |University of Michigan
+|David Robinson                      |University of Michigan
+|Alexander Rodriguez                       |University of Michigan
+|Ismael Serrano                       |University of Michigan
+|Nora Sherman                       |University of Michigan
+|Emery Trott                       |University of Michigan
+|Tianke Zhuang                      |University of Michigan
