@@ -132,6 +132,7 @@ image:
 |Yihao Zhou                      |Carnegie Mellon University
 
 **In-person attendees - Michigan students**
+
 |Gill Akum                      |University of Michigan
 |Otávio Alves                      |University of Michigan
 |Preet Baxi                      |University of Michigan
