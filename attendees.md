@@ -7,7 +7,7 @@ image:
     caption: "Photo Credit: [Pixabay](https://pixabay.com/photos/startup-start-up-people-593341/)"
 ---
 
-**In-person attendees**
+**In-person attendees:**
 
 |Aizhan Akhmetzhanova            |Harvard University
 |Omer Faruk Albayrak             |Arizona State University
@@ -131,7 +131,7 @@ image:
 |Gemma Zhang                     |Harvard University
 |Yihao Zhou                      |Carnegie Mellon University
 
-**In-person attendees - Michigan students**
+**In-person attendees - Michigan students:**
 
 |Gill Akum                      |University of Michigan
 |Otávio Alves                      |University of Michigan
